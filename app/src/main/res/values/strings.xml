@@ -2,4 +2,6 @@
     <string name="app_name">My Git</string>
     <string name="feature_1">功能1</string>
     <string name="feature_1_dis">Hello World</string>
+    <string name="feature_2">功能2</string>
+    <string name="feature_2_dis">Hello Android</string>
 </resources>
