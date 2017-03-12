@@ -9,12 +9,15 @@ public class MainActivity extends AppCompatActivity {
 
     private Button btn_feature_1;
     private Button btn_feature_2;
+    private Button btn_feature_4;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btn_feature_1 = (Button) findViewById(R.id.btn_feature_1);
         btn_feature_2 = (Button) findViewById(R.id.btn_feature_2);
+        btn_feature_4 = (Button) findViewById(R.id.btn_feature_4);
     }
 
     /**
@@ -43,4 +46,13 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
+    /**
+     * feature-4
+     * display Hello
+     * @param view
+     */
+    public void feature4(View view) {
+        btn_feature_4.setText(R.string.feature_4_dis);
+    }
 }

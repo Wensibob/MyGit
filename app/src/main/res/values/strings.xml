@@ -4,4 +4,6 @@
     <string name="feature_1_dis">Hello World</string>
     <string name="feature_2">功能2</string>
     <string name="feature_2_dis">Hello Android</string>
+    <string name="feature_4">功能4</string>
+    <string name="feature_4_dis">Hello</string>
 </resources>
