@@ -1,4 +1,4 @@
-# 或许是介绍Android Studio使用Git最详细的文章
+# 或许是介绍Android Studio使用Git最详细的文章 666
 **欢迎访问我的[个人博客网站](http://www.wensibo.top)**
 ## 前言
 **本文较长，图片很多很多，流量党慎入**
